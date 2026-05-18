@@ -8,3 +8,4 @@
 - [Current job (2026-05-15)](project_current_job.md) — 兩條高壓線並行：醫美 6 月底 + AI 規範 7 月；想離開、跟主管頻率不合
 - [Career pivot plan](project_career_pivot.md) — 求職方向已對齊（遠端+白產+IC+Angular）；2026-05-15 完成市場 reality check；風采 offer 活躍決策中
 - [Meaning components framework](meaning_components_framework.md) — 4 變數工具：你定方向 / 看得到用戶 / 價值觀對齊 / 累積在你；評估 offer 用
+- [Badminton hobby](hobby_badminton.md) — 有教練在學（右撇子）；用物理框架拆動作；別為了給更精準解釋就推翻教練
