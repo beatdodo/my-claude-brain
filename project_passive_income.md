@@ -6,6 +6,8 @@ originSessionId: bb21c9ff-aba1-4702-8bd7-b68cdb451c1a
 ---
 Archer 已經在執行 passive-income 路線，不是空想階段。
 
+⚠️ **截至 2026-05-15，所有 passive income 專案仍為 0 收入**。給職涯/錢的建議時**不要把未來 passive income 當作眼前決策的變數**（他自己 call out 過這個錯誤）。「2-3 年後可能會有」≠「現在的籌碼」，眼前的籌碼只有薪水。
+
 位置：`~/Documents/myProject/passive-income/`
 
 **meditation-channel**（規劃中，2026-04-30 啟動）
